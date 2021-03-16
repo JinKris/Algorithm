@@ -1,6 +1,6 @@
 # Algorithm
 
-###check
+### check
  1. overflow
  
 최소, 최대일 경우 테스트 꼭 해보기
